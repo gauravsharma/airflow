@@ -1,0 +1,29 @@
+Customer 360 team
+    closed orders against the Customer
+    text files -> s3 buckets -> 5PM - 6PM
+
+    Customer related information
+        CRM team all the customer information in a mysql/oracle db
+
+    S3(Orders)
+    Mysql(Customer info)
+        Orders filtering on the closed orders
+        Load both the datasets in Hive
+        Notifications & HBase data loading
+
+
+
+Solution Approach:
+    S3 file (Https connections)
+    HTTP Sensor
+        Connection - Name - Host/Port/Username/Password/Scheme
+
+    SSH into edgenode
+        1. Download the files from s3 int local (edgenode)
+        2. Sqoop will fetch the customer info from mysql and dump to Hive
+        3. Upload S3 order file to HDFS Location
+        4. spark program <jar> <input path> <output path>
+        5. Create Hive table from the Output path available in step 4
+        6. Upload it into HBase(HBase Hive Connectors)
+        7. Slack #channel for communication
+            Success/Failure of the pipeline

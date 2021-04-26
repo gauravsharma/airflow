@@ -1,0 +1,308 @@
+[2021-04-25 20:43:10,718] {scheduler_job.py:182} INFO - Started process (PID=12922) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:43:10,719] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:43:10,720] {logging_mixin.py:104} INFO - [2021-04-25 20:43:10,720] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:43:10,734] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:43:10,740] {logging_mixin.py:104} INFO - [2021-04-25 20:43:10,740] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:43:10,752] {logging_mixin.py:104} INFO - [2021-04-25 20:43:10,752] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:43:10,851] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.135 seconds
+[2021-04-25 20:43:41,240] {scheduler_job.py:182} INFO - Started process (PID=12968) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:43:41,241] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:43:41,242] {logging_mixin.py:104} INFO - [2021-04-25 20:43:41,242] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:43:41,254] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:43:41,266] {logging_mixin.py:104} INFO - [2021-04-25 20:43:41,266] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:43:41,277] {logging_mixin.py:104} INFO - [2021-04-25 20:43:41,277] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:43:41,357] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.120 seconds
+[2021-04-25 20:44:11,827] {scheduler_job.py:182} INFO - Started process (PID=12982) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:44:11,828] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:44:11,829] {logging_mixin.py:104} INFO - [2021-04-25 20:44:11,829] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:44:11,838] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:44:11,846] {logging_mixin.py:104} INFO - [2021-04-25 20:44:11,846] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:44:11,855] {logging_mixin.py:104} INFO - [2021-04-25 20:44:11,854] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:44:11,935] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.111 seconds
+[2021-04-25 20:44:42,930] {scheduler_job.py:182} INFO - Started process (PID=13002) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:44:42,932] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:44:42,932] {logging_mixin.py:104} INFO - [2021-04-25 20:44:42,932] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:44:42,939] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:44:42,947] {logging_mixin.py:104} INFO - [2021-04-25 20:44:42,947] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:44:42,955] {logging_mixin.py:104} INFO - [2021-04-25 20:44:42,955] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:44:43,031] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.103 seconds
+[2021-04-25 20:45:13,909] {scheduler_job.py:182} INFO - Started process (PID=13018) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:45:13,910] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:45:13,911] {logging_mixin.py:104} INFO - [2021-04-25 20:45:13,910] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:45:13,920] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:45:13,927] {logging_mixin.py:104} INFO - [2021-04-25 20:45:13,927] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:45:13,935] {logging_mixin.py:104} INFO - [2021-04-25 20:45:13,935] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:45:14,044] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.136 seconds
+[2021-04-25 20:45:44,968] {scheduler_job.py:182} INFO - Started process (PID=13040) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:45:44,968] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:45:44,969] {logging_mixin.py:104} INFO - [2021-04-25 20:45:44,969] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:45:44,980] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:45:44,987] {logging_mixin.py:104} INFO - [2021-04-25 20:45:44,987] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:45:45,026] {logging_mixin.py:104} INFO - [2021-04-25 20:45:45,026] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:45:45,089] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.124 seconds
+[2021-04-25 20:46:15,182] {scheduler_job.py:182} INFO - Started process (PID=13068) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:46:15,183] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:46:15,184] {logging_mixin.py:104} INFO - [2021-04-25 20:46:15,184] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:46:15,193] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:46:15,205] {logging_mixin.py:104} INFO - [2021-04-25 20:46:15,205] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:46:15,248] {logging_mixin.py:104} INFO - [2021-04-25 20:46:15,248] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:46:15,344] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.164 seconds
+[2021-04-25 20:46:45,871] {scheduler_job.py:182} INFO - Started process (PID=13090) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:46:45,872] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:46:45,872] {logging_mixin.py:104} INFO - [2021-04-25 20:46:45,872] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:46:45,884] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:46:45,895] {logging_mixin.py:104} INFO - [2021-04-25 20:46:45,894] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:46:45,936] {logging_mixin.py:104} INFO - [2021-04-25 20:46:45,936] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:46:46,009] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.141 seconds
+[2021-04-25 20:47:16,652] {scheduler_job.py:182} INFO - Started process (PID=13109) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:47:16,653] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:47:16,653] {logging_mixin.py:104} INFO - [2021-04-25 20:47:16,653] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:47:16,664] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:47:16,675] {logging_mixin.py:104} INFO - [2021-04-25 20:47:16,675] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:47:16,720] {logging_mixin.py:104} INFO - [2021-04-25 20:47:16,720] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:47:16,830] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.180 seconds
+[2021-04-25 20:47:47,432] {scheduler_job.py:182} INFO - Started process (PID=13165) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:47:47,433] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:47:47,433] {logging_mixin.py:104} INFO - [2021-04-25 20:47:47,433] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:47:47,443] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:47:47,455] {logging_mixin.py:104} INFO - [2021-04-25 20:47:47,455] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:47:47,497] {logging_mixin.py:104} INFO - [2021-04-25 20:47:47,497] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:47:47,573] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.144 seconds
+[2021-04-25 20:48:18,285] {scheduler_job.py:182} INFO - Started process (PID=13220) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:48:18,286] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:48:18,287] {logging_mixin.py:104} INFO - [2021-04-25 20:48:18,287] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:48:18,299] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:48:18,309] {logging_mixin.py:104} INFO - [2021-04-25 20:48:18,309] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:48:18,352] {logging_mixin.py:104} INFO - [2021-04-25 20:48:18,352] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:48:18,444] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.162 seconds
+[2021-04-25 20:48:49,214] {scheduler_job.py:182} INFO - Started process (PID=13262) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:48:49,215] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:48:49,216] {logging_mixin.py:104} INFO - [2021-04-25 20:48:49,215] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:48:49,227] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:48:49,236] {logging_mixin.py:104} INFO - [2021-04-25 20:48:49,236] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:48:49,279] {logging_mixin.py:104} INFO - [2021-04-25 20:48:49,279] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:48:49,356] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.145 seconds
+[2021-04-25 20:49:19,946] {scheduler_job.py:182} INFO - Started process (PID=13279) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:49:19,947] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:49:19,947] {logging_mixin.py:104} INFO - [2021-04-25 20:49:19,947] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:49:19,961] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:49:20,009] {logging_mixin.py:104} INFO - [2021-04-25 20:49:20,009] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:49:20,018] {logging_mixin.py:104} INFO - [2021-04-25 20:49:20,018] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:49:20,111] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.167 seconds
+[2021-04-25 20:49:50,728] {scheduler_job.py:182} INFO - Started process (PID=13308) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:49:50,729] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:49:50,729] {logging_mixin.py:104} INFO - [2021-04-25 20:49:50,729] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:49:50,741] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:49:50,785] {logging_mixin.py:104} INFO - [2021-04-25 20:49:50,784] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:49:50,792] {logging_mixin.py:104} INFO - [2021-04-25 20:49:50,792] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:49:50,881] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.155 seconds
+[2021-04-25 20:50:21,578] {scheduler_job.py:182} INFO - Started process (PID=13327) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:50:21,579] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:50:21,579] {logging_mixin.py:104} INFO - [2021-04-25 20:50:21,579] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:50:21,590] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:50:21,633] {logging_mixin.py:104} INFO - [2021-04-25 20:50:21,633] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:50:21,642] {logging_mixin.py:104} INFO - [2021-04-25 20:50:21,642] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:50:21,735] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.159 seconds
+[2021-04-25 20:50:52,358] {scheduler_job.py:182} INFO - Started process (PID=13345) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:50:52,359] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:50:52,360] {logging_mixin.py:104} INFO - [2021-04-25 20:50:52,360] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:50:52,371] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:50:52,416] {logging_mixin.py:104} INFO - [2021-04-25 20:50:52,416] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:50:52,424] {logging_mixin.py:104} INFO - [2021-04-25 20:50:52,424] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:50:52,513] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.158 seconds
+[2021-04-25 20:51:23,169] {scheduler_job.py:182} INFO - Started process (PID=13406) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:51:23,170] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:51:23,170] {logging_mixin.py:104} INFO - [2021-04-25 20:51:23,170] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:51:23,188] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:51:23,260] {logging_mixin.py:104} INFO - [2021-04-25 20:51:23,259] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:51:23,269] {logging_mixin.py:104} INFO - [2021-04-25 20:51:23,268] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:51:23,355] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.189 seconds
+[2021-04-25 20:51:53,964] {scheduler_job.py:182} INFO - Started process (PID=13451) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:51:53,965] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:51:53,968] {logging_mixin.py:104} INFO - [2021-04-25 20:51:53,965] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:51:54,029] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:51:54,040] {logging_mixin.py:104} INFO - [2021-04-25 20:51:54,039] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:51:54,055] {logging_mixin.py:104} INFO - [2021-04-25 20:51:54,055] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:51:54,201] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.239 seconds
+[2021-04-25 20:52:24,717] {scheduler_job.py:182} INFO - Started process (PID=13507) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:52:24,717] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:52:24,718] {logging_mixin.py:104} INFO - [2021-04-25 20:52:24,718] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:52:24,779] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:52:24,786] {logging_mixin.py:104} INFO - [2021-04-25 20:52:24,786] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:52:24,794] {logging_mixin.py:104} INFO - [2021-04-25 20:52:24,794] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:52:24,880] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.165 seconds
+[2021-04-25 20:52:55,541] {scheduler_job.py:182} INFO - Started process (PID=13587) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:52:55,542] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:52:55,542] {logging_mixin.py:104} INFO - [2021-04-25 20:52:55,542] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:52:55,591] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:52:55,599] {logging_mixin.py:104} INFO - [2021-04-25 20:52:55,599] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:52:55,608] {logging_mixin.py:104} INFO - [2021-04-25 20:52:55,608] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:52:55,691] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.153 seconds
+[2021-04-25 20:53:26,285] {scheduler_job.py:182} INFO - Started process (PID=13602) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:53:26,285] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:53:26,286] {logging_mixin.py:104} INFO - [2021-04-25 20:53:26,286] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:53:26,332] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:53:26,375] {logging_mixin.py:104} INFO - [2021-04-25 20:53:26,375] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:53:26,386] {logging_mixin.py:104} INFO - [2021-04-25 20:53:26,386] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:53:26,471] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.188 seconds
+[2021-04-25 20:53:57,095] {scheduler_job.py:182} INFO - Started process (PID=13751) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:53:57,096] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:53:57,097] {logging_mixin.py:104} INFO - [2021-04-25 20:53:57,097] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:53:57,143] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:53:57,150] {logging_mixin.py:104} INFO - [2021-04-25 20:53:57,150] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:53:57,157] {logging_mixin.py:104} INFO - [2021-04-25 20:53:57,157] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:53:57,231] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.138 seconds
+[2021-04-25 20:54:27,371] {scheduler_job.py:182} INFO - Started process (PID=13782) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:54:27,372] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:54:27,373] {logging_mixin.py:104} INFO - [2021-04-25 20:54:27,373] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:54:27,414] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:54:27,421] {logging_mixin.py:104} INFO - [2021-04-25 20:54:27,421] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:54:27,428] {logging_mixin.py:104} INFO - [2021-04-25 20:54:27,428] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:54:27,502] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.133 seconds
+[2021-04-25 20:54:57,640] {scheduler_job.py:182} INFO - Started process (PID=13844) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:54:57,677] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:54:57,677] {logging_mixin.py:104} INFO - [2021-04-25 20:54:57,677] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:54:57,684] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:54:57,690] {logging_mixin.py:104} INFO - [2021-04-25 20:54:57,690] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:54:57,697] {logging_mixin.py:104} INFO - [2021-04-25 20:54:57,697] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:54:57,776] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.138 seconds
+[2021-04-25 20:55:27,914] {scheduler_job.py:182} INFO - Started process (PID=13882) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:55:27,915] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:55:27,916] {logging_mixin.py:104} INFO - [2021-04-25 20:55:27,916] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:55:27,924] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:55:27,931] {logging_mixin.py:104} INFO - [2021-04-25 20:55:27,931] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:55:27,938] {logging_mixin.py:104} INFO - [2021-04-25 20:55:27,938] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:55:28,011] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.099 seconds
+[2021-04-25 20:55:58,190] {scheduler_job.py:182} INFO - Started process (PID=13911) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:55:58,191] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:55:58,192] {logging_mixin.py:104} INFO - [2021-04-25 20:55:58,192] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:55:58,200] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:55:58,207] {logging_mixin.py:104} INFO - [2021-04-25 20:55:58,207] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:55:58,215] {logging_mixin.py:104} INFO - [2021-04-25 20:55:58,214] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:55:58,273] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.086 seconds
+[2021-04-25 20:56:28,363] {scheduler_job.py:182} INFO - Started process (PID=14096) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:56:28,364] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:56:28,365] {logging_mixin.py:104} INFO - [2021-04-25 20:56:28,365] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:56:28,375] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:56:28,382] {logging_mixin.py:104} INFO - [2021-04-25 20:56:28,382] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:56:28,390] {logging_mixin.py:104} INFO - [2021-04-25 20:56:28,390] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:56:28,456] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.096 seconds
+[2021-04-25 20:56:58,541] {scheduler_job.py:182} INFO - Started process (PID=14135) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:56:58,543] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:56:58,545] {logging_mixin.py:104} INFO - [2021-04-25 20:56:58,544] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:56:58,553] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:56:58,565] {logging_mixin.py:104} INFO - [2021-04-25 20:56:58,565] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:56:58,575] {logging_mixin.py:104} INFO - [2021-04-25 20:56:58,574] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:56:58,668] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.131 seconds
+[2021-04-25 20:57:29,838] {scheduler_job.py:182} INFO - Started process (PID=14170) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:57:29,839] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:57:29,839] {logging_mixin.py:104} INFO - [2021-04-25 20:57:29,839] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:57:29,849] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:57:29,860] {logging_mixin.py:104} INFO - [2021-04-25 20:57:29,860] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:57:29,870] {logging_mixin.py:104} INFO - [2021-04-25 20:57:29,870] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:57:29,945] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.109 seconds
+[2021-04-25 20:58:00,626] {scheduler_job.py:182} INFO - Started process (PID=14223) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:58:00,627] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:58:00,628] {logging_mixin.py:104} INFO - [2021-04-25 20:58:00,628] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:58:00,636] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:58:00,647] {logging_mixin.py:104} INFO - [2021-04-25 20:58:00,647] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:58:00,655] {logging_mixin.py:104} INFO - [2021-04-25 20:58:00,655] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:58:00,735] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.112 seconds
+[2021-04-25 20:58:31,385] {scheduler_job.py:182} INFO - Started process (PID=14248) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:58:31,386] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:58:31,386] {logging_mixin.py:104} INFO - [2021-04-25 20:58:31,386] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:58:31,398] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:58:31,405] {logging_mixin.py:104} INFO - [2021-04-25 20:58:31,405] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:58:31,414] {logging_mixin.py:104} INFO - [2021-04-25 20:58:31,414] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-24 00:00:00+00:00
+[2021-04-25 20:58:31,481] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.099 seconds
+[2021-04-25 20:59:05,162] {scheduler_job.py:182} INFO - Started process (PID=14303) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:59:05,163] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:59:05,163] {logging_mixin.py:104} INFO - [2021-04-25 20:59:05,163] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:59:05,175] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:59:05,291] {logging_mixin.py:104} INFO - [2021-04-25 20:59:05,291] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:59:05,303] {logging_mixin.py:104} INFO - [2021-04-25 20:59:05,303] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 20:59:05,389] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.229 seconds
+[2021-04-25 20:59:35,469] {scheduler_job.py:182} INFO - Started process (PID=14356) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:59:35,470] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 20:59:35,470] {logging_mixin.py:104} INFO - [2021-04-25 20:59:35,470] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:59:35,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 20:59:35,489] {logging_mixin.py:104} INFO - [2021-04-25 20:59:35,489] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 20:59:35,499] {logging_mixin.py:104} INFO - [2021-04-25 20:59:35,498] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 20:59:35,560] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.094 seconds
+[2021-04-25 21:00:05,717] {scheduler_job.py:182} INFO - Started process (PID=14403) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:00:05,718] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:00:05,719] {logging_mixin.py:104} INFO - [2021-04-25 21:00:05,719] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:00:05,727] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:00:05,735] {logging_mixin.py:104} INFO - [2021-04-25 21:00:05,735] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:00:05,742] {logging_mixin.py:104} INFO - [2021-04-25 21:00:05,742] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:00:05,815] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.100 seconds
+[2021-04-25 21:00:35,935] {scheduler_job.py:182} INFO - Started process (PID=14466) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:00:35,937] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:00:35,937] {logging_mixin.py:104} INFO - [2021-04-25 21:00:35,937] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:00:35,946] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:00:35,954] {logging_mixin.py:104} INFO - [2021-04-25 21:00:35,954] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:00:35,962] {logging_mixin.py:104} INFO - [2021-04-25 21:00:35,962] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:00:36,039] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.106 seconds
+[2021-04-25 21:01:06,231] {scheduler_job.py:182} INFO - Started process (PID=14513) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:01:06,232] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:01:06,233] {logging_mixin.py:104} INFO - [2021-04-25 21:01:06,232] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:01:06,245] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:01:06,253] {logging_mixin.py:104} INFO - [2021-04-25 21:01:06,253] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:01:06,261] {logging_mixin.py:104} INFO - [2021-04-25 21:01:06,261] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:01:06,323] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.095 seconds
+[2021-04-25 21:01:37,519] {scheduler_job.py:182} INFO - Started process (PID=14565) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:01:37,519] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:01:37,520] {logging_mixin.py:104} INFO - [2021-04-25 21:01:37,520] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:01:37,530] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:01:37,538] {logging_mixin.py:104} INFO - [2021-04-25 21:01:37,538] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:01:37,545] {logging_mixin.py:104} INFO - [2021-04-25 21:01:37,545] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:01:37,617] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.100 seconds
+[2021-04-25 21:02:08,852] {scheduler_job.py:182} INFO - Started process (PID=14619) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:02:08,853] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:02:08,854] {logging_mixin.py:104} INFO - [2021-04-25 21:02:08,854] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:02:08,867] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:02:08,876] {logging_mixin.py:104} INFO - [2021-04-25 21:02:08,876] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:02:08,884] {logging_mixin.py:104} INFO - [2021-04-25 21:02:08,884] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:02:09,023] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.175 seconds
+[2021-04-25 21:02:40,245] {scheduler_job.py:182} INFO - Started process (PID=14692) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:02:40,246] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:02:40,246] {logging_mixin.py:104} INFO - [2021-04-25 21:02:40,246] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:02:40,258] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:02:40,269] {logging_mixin.py:104} INFO - [2021-04-25 21:02:40,269] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:02:40,281] {logging_mixin.py:104} INFO - [2021-04-25 21:02:40,281] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:02:40,462] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.221 seconds
+[2021-04-25 21:03:10,837] {scheduler_job.py:182} INFO - Started process (PID=14801) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:03:10,838] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:03:10,839] {logging_mixin.py:104} INFO - [2021-04-25 21:03:10,839] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:03:10,848] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:03:10,856] {logging_mixin.py:104} INFO - [2021-04-25 21:03:10,856] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:03:10,864] {logging_mixin.py:104} INFO - [2021-04-25 21:03:10,864] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:03:10,955] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.121 seconds
+[2021-04-25 21:03:41,384] {scheduler_job.py:182} INFO - Started process (PID=14864) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:03:41,385] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:03:41,385] {logging_mixin.py:104} INFO - [2021-04-25 21:03:41,385] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:03:41,397] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:03:41,405] {logging_mixin.py:104} INFO - [2021-04-25 21:03:41,405] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:03:41,415] {logging_mixin.py:104} INFO - [2021-04-25 21:03:41,415] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:03:41,547] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.165 seconds
+[2021-04-25 21:04:12,412] {scheduler_job.py:182} INFO - Started process (PID=14945) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:04:12,413] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:04:12,414] {logging_mixin.py:104} INFO - [2021-04-25 21:04:12,414] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:04:12,424] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:04:12,433] {logging_mixin.py:104} INFO - [2021-04-25 21:04:12,433] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:04:12,442] {logging_mixin.py:104} INFO - [2021-04-25 21:04:12,442] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:04:12,550] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.142 seconds
+[2021-04-25 21:04:43,169] {scheduler_job.py:182} INFO - Started process (PID=15007) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:04:43,170] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:04:43,171] {logging_mixin.py:104} INFO - [2021-04-25 21:04:43,171] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:04:43,184] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:04:43,196] {logging_mixin.py:104} INFO - [2021-04-25 21:04:43,196] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:04:43,206] {logging_mixin.py:104} INFO - [2021-04-25 21:04:43,206] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:04:43,296] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.129 seconds
+[2021-04-25 21:05:14,304] {scheduler_job.py:182} INFO - Started process (PID=15104) to work on /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:05:14,306] {scheduler_job.py:629} INFO - Processing file /home/gaurav/airflow/dags/sensor.py for tasks to queue
+[2021-04-25 21:05:14,307] {logging_mixin.py:104} INFO - [2021-04-25 21:05:14,307] {dagbag.py:451} INFO - Filling up the DagBag from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:05:14,317] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['customer_360_pipeline']) retrieved from /home/gaurav/airflow/dags/sensor.py
+[2021-04-25 21:05:14,327] {logging_mixin.py:104} INFO - [2021-04-25 21:05:14,327] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-04-25 21:05:14,337] {logging_mixin.py:104} INFO - [2021-04-25 21:05:14,337] {dag.py:2280} INFO - Setting next_dagrun for customer_360_pipeline to 2021-04-25 00:00:00+00:00
+[2021-04-25 21:05:14,421] {scheduler_job.py:190} INFO - Processing /home/gaurav/airflow/dags/sensor.py took 0.119 seconds
