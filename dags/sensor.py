@@ -44,7 +44,7 @@ import_customer_info = SSHOperator(
 import_customer_info = SSHOperator(
     task_id='upload_orders',
     ssh_conn_id='itversity',
-    command=,
+    command='hdfs dfs -rm -R -f airflow_input && hdfs dfs -mkdir -p airflow_input && hdfs dfs -put ./airflow_pipeline/orders.csv airflow_input/',
     dag=dag
 )
 
@@ -55,9 +55,18 @@ def fetch_customer_info_cmd():
     command_three = "exit 0"
     return f'{command_one} && {command_one_ext} && {command_two} && ({command_two} || {command_three})'
 
+def get_order_filter_cmd():
+    command_one = 'hdfs dfs -rm -R -f airflow_output'
+    command_two = 'spark-submit --class DataFramesExample sparkbundle.jar airflow_input/orders.csv airflow_output'
+    return f'{command_one} && {command_two}'
+
+def create_order_hive_table_cmd():
+    command_one = 'hive -e "CREATE external table if not exists airflow.orders(order_id int, order_data string, customer_id int, status string row format delimited field terminated by \',\' stored as textfile location \'user\'"'
+
 dummy = DummyOperator(
     task_id='dummy',
     dag=dag
 )
 
-sensor >> download_to_edgenode >> dummy
+sensor >> [import_customer_info] >> dummy
+sensor >> download_to_edgenode >> upload_order_info >> dummy
